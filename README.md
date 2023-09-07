@@ -1,7 +1,7 @@
 # Python_GUI-tkinter-
 
 Python tkinter practicals
-Main File : Cailcuator5.py
+Main File : Calcuator5.py
 
 
 Calculator : 
